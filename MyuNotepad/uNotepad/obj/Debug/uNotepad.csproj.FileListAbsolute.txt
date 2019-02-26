@@ -1,0 +1,76 @@
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\bin\Debug\uNotepad.exe.config
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\bin\Debug\uNotepad.exe
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\bin\Debug\uNotepad.pdb
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.csprojResolveAssemblyReference.cache
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.Form1.resources
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.Properties.Resources.resources
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.GenerateResource.Cache
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.exe
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.pdb
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.uNote.resources
+D:\Bilge Adam\C# Forms\09.03.2016\uNotepad\uNotepad\obj\Debug\uNotepad.AramaFormu.resources
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\bin\Debug\uNotepad.exe.config
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.exe
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.pdb
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\bin\Debug\uNotepad.exe
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\bin\Debug\uNotepad.pdb
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.csprojResolveAssemblyReference.cache
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.About.resources
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.AramaFormu.resources
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.Form1.resources
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.Properties.Resources.resources
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.uNote.resources
+C:\Users\Oguz\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.GenerateResource.Cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\bin\Debug\uNotepad.exe.config
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\bin\Debug\uNotepad.exe
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\bin\Debug\uNotepad.pdb
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.csprojAssemblyReference.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.About.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.AramaFormu.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.Form1.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.Properties.Resources.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.uNote.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.GenerateResource.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.exe
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.pdb
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\bin\Debug\uNotepad.exe.config
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\bin\Debug\uNotepad.exe
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\bin\Debug\uNotepad.pdb
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.About.resources
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.AramaFormu.resources
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.Form1.resources
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.Properties.Resources.resources
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.uNote.resources
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.exe
+C:\Users\iau\Desktop\uNotepad\uNotepad\uNotepad\obj\Debug\uNotepad.pdb
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\bin\Debug\uNotepad.exe.config
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.exe
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.pdb
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\bin\Debug\uNotepad.exe
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\bin\Debug\uNotepad.pdb
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.csprojResolveAssemblyReference.cache
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.About.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.AramaFormu.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.Form1.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.Properties.Resources.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.uNote.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad\uNotepad\obj\Debug\uNotepad.csproj.GenerateResource.Cache
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\bin\Debug\uNotepad.exe.config
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.exe
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.pdb
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\bin\Debug\uNotepad.exe
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\bin\Debug\uNotepad.pdb
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.csprojResolveAssemblyReference.cache
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.About.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.AramaFormu.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.Form1.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.Properties.Resources.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.uNote.resources
+C:\Users\Ali KAVAK\Desktop\uNotepad1\uNotepad\obj\Debug\uNotepad.csproj.GenerateResource.Cache
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\MyuNotepad\uNotepad\bin\Debug\uNotepad.exe.config
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\MyuNotepad\uNotepad\obj\Debug\uNotepad.exe
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\MyuNotepad\uNotepad\obj\Debug\uNotepad.pdb
